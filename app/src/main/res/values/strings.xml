@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Artist</string>
+    <string name="enter_code">Enter Code:</string>
+    <string name="enter_pass_code">Enter Pass Code</string>
+    <string name="pass1">6</string>
+    <string name="pass2">6</string>
+    <string name="pass3">6</string>
+    <string name="pass4">6</string>
+</resources>
